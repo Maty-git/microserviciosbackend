@@ -1,0 +1,9 @@
+microserviciostingeso\m1\controllers\TarifasController.class
+microserviciostingeso\m1\entities\PaqueteM4DTO.class
+microserviciostingeso\m1\services\TarifasService.class
+microserviciostingeso\m1\M1Application.class
+microserviciostingeso\m1\entities\DescuentoDTO.class
+microserviciostingeso\m1\entities\PeticionM4DTO.class
+microserviciostingeso\m1\WebClientConfig.class
+microserviciostingeso\m1\entities\CalcularTarifaDTO.class
+microserviciostingeso\m1\entities\PagoEntity.class

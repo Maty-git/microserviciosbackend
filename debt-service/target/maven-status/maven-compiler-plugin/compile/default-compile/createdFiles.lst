@@ -1,0 +1,5 @@
+com\tingeso\debt\controllers\DebtController.class
+com\tingeso\debt\DebtApplication.class
+com\tingeso\debt\entities\DebtEntity.class
+com\tingeso\debt\services\DebtService.class
+com\tingeso\debt\repositories\DebtRepository.class

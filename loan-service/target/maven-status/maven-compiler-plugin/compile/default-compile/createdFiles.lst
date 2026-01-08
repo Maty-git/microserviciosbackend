@@ -1,0 +1,10 @@
+com\tingeso\loan\entities\Loan.class
+com\tingeso\loan\repositories\LoanRepository.class
+com\tingeso\loan\LoanApplication.class
+com\tingeso\loan\config\RestTemplateConfig.class
+com\tingeso\loan\dtos\ToolDTO.class
+com\tingeso\loan\dtos\ClientDTO.class
+com\tingeso\loan\controllers\LoanController.class
+com\tingeso\loan\entities\Loan$LoanStatus.class
+com\tingeso\loan\dtos\LoanDTO.class
+com\tingeso\loan\services\LoanService.class

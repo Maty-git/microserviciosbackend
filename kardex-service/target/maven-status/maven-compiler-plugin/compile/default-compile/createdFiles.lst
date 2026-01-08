@@ -1,0 +1,5 @@
+com\tingeso\kardex\repositories\KardexRepository.class
+com\tingeso\kardex\services\KardexService.class
+com\tingeso\kardex\controllers\KardexController.class
+com\tingeso\kardex\entities\KardexEntity.class
+com\tingeso\kardex\KardexApplication.class

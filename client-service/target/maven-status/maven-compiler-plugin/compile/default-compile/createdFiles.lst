@@ -1,0 +1,7 @@
+com\tingeso\client\ClientApplication.class
+com\tingeso\client\controllers\ClientController.class
+com\tingeso\client\dtos\ClientDTO.class
+com\tingeso\client\repositories\ClientRepository.class
+com\tingeso\client\dtos\ClientResponseDTO.class
+com\tingeso\client\entities\Client.class
+com\tingeso\client\services\ClientService.class

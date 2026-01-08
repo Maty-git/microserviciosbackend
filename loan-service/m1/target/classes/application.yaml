@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: m1
+  config:
+    import: "configserver:http://config-service:8888"
